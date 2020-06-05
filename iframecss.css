@@ -1,0 +1,50 @@
+.songbutton{
+    border-radius: 0px;
+    display: block;
+    width: 100%;
+    border: none;
+    background: transparent;
+    color: black;
+    padding-left: 8px;
+  }
+  .songbutton:hover{
+     background-color: #1F1F1F;
+     color:#f3671f;
+  }
+  ::-webkit-scrollbar {
+       width: 10px;
+  }
+  body{
+      background-color: #F3671F;
+  }
+  /* Track */
+  ::-webkit-scrollbar-track {
+  background: #F3671F; 
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+  background: #F3671F; 
+  }
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+  background: #F3671F; 
+  }
+  td a {
+    display:inline-block;
+    min-height:100%;
+    width:100%; 
+    color: black;
+    text-decoration: none;
+  }
+  td a:hover{
+      color:#f3671f;
+      text-decoration: none;
+  }
+  td {
+    padding:0;  
+  }
+  .row{
+      margin-top: 3%;
+    }
+  
