@@ -1,0 +1,88 @@
+
+/*FOOTER*/
+
+footer {
+    background-color:#000000;
+    color: white;
+    margin-top:0px;
+  }
+  
+  footer a {
+    color: #fff;
+    font-size: 14px;
+    transition-duration: 0.2s;
+  }
+  
+  footer a:hover {
+    color: #FA944B;
+    text-decoration: none;
+  }
+  
+  .copy {
+    font-size: 12px;
+    padding: 10px;
+    border-top: 1px solid #FFFFFF;
+  }
+  
+  .footer-middle {
+    padding-top: 2em;
+    color: white;
+  }
+  
+  .extbutton{
+    border-radius: 0px;
+    padding: 8px;
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #FFFFFF;
+    color: #F3671F;
+  
+  }
+  .extbutton:hover{
+     background-color: #1F1F1F;
+  }
+  
+  .mainbutton{
+    border-radius: 0px;
+    padding: 8px;
+    display: block;
+    width: 90%;
+    border: none;
+    background-color: #FFFFFF;
+    color: #F3671F;
+    text-align: left;
+  }
+  .mainbutton:hover{
+    background-color: #1F1F1F;
+  }
+  .transition{
+    background-image: url("arrow.png");
+    background-repeat: no-repeat;
+    background-position: top 50% right 10%;
+  }
+  .transition:hover{
+    background-image: url("arrow2.png");
+    background-repeat: no-repeat;
+    background-position: top 50% right 10%;
+  }
+  .vernav{
+    color: #FFFFFF;
+    padding: 10px;
+    font-size: 30px;
+  
+  }
+  .vernav:hover{
+    color: #F3671F;
+    font-size: 36px;
+  }
+  .infomargin{
+    margin-top: 6%;
+  }
+  .quicksearch{
+
+  }
+  .quicksearch:hover{
+    border-top: #f3671f solid 4px;
+  
+  }
